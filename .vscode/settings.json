@@ -9,15 +9,7 @@
 			}
 		]
 	},
-	"cSpell.words": [
-		"dbaeumer",
-		"htmlhint",
-		"kohler",
-		"mkaufman",
-		"qunit"
-	],
-	"eslint.format.enable": true,
-	"editor.codeActionsOnSave": {
-		"source.fixAll.eslint": "explicit"
-	}
+	"ltex.enabled": false,
+	"cSpell.enabled": true,
+
 }
